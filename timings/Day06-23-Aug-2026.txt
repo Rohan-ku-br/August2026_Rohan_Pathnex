@@ -1,11 +1,10 @@
 # what i did today
 
-2 Hr - AWS morning class
-2 Hr - lang practice
+3 Hr - morning class
+1 Hr - lang practice
 1 Hr - kanji
 2 Hr - phone Use
-1 Hr - linux practice
-1 to 2 Hr - watch docker video
+3 to 4 Hr - CI/CD practices
 preparing introduction video
 30 MIn - english speaking practing
 
@@ -17,7 +16,6 @@ preparing introduction video
 2 Hr - lang practice
 1 Hr - kanji
 1 - 2 Hr - phone Use
-1 Hr - linux practice/aws revision
-1 to 2 Hr - watch docker video
+1 to 2 Hr - previous topic
 preparing introduction video
 30 MIn - english speaking practing 
