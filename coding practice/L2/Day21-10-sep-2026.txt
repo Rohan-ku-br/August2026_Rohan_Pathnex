@@ -47,7 +47,7 @@ kind: StatefulSet
 metadata:
   name: pathnex-statefulset
 spec:
-  serviceName: "pathnex"
+  serviceName: "pathnex"  
   replicas: 3
   selector:
     matchLabels:
@@ -103,7 +103,6 @@ restore:
   stage: restore
   script:
     - tar -xzvf /tmp/backup.tar.gz -C kubernetes/
-
 
 
 🔹 Docker
